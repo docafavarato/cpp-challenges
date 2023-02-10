@@ -10,3 +10,5 @@ Conjunto de desafios de C++.
 > Create a rock paper scissors game.
 ## [Super Mario](https://github.com/docafavarato/cpp-challenges/tree/main/Super%20Mario)
 > Create a program that draws the super mario stairs based on a given amount of levels.
+## [Starts with](https://github.com/docafavarato/cpp-challenges/tree/main/Starts%20with)
+> Write a function that reads two strings and returns true if the first one starts with the second one.
