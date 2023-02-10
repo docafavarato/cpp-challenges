@@ -1,3 +1,5 @@
+// Create a program that generates a random password within a given length
+
 #include <iostream>
 #include <time.h>
 
