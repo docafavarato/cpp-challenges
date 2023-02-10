@@ -2,4 +2,5 @@
 
 Conjunto de desafios de C++.
 
-[a link](https://github.com/docafavarato/cpp-challenges/tree/main/Factorial)
+- [Factorial](https://github.com/docafavarato/cpp-challenges/tree/main/Factorial)
+- [Password generator](https://github.com/docafavarato/cpp-challenges/tree/main/Password%20generator)
