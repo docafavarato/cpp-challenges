@@ -1,4 +1,4 @@
-# C++ Challenges
+# C++ challenges
 
 Conjunto de desafios de C++.
 
