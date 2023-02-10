@@ -18,6 +18,6 @@ string stairs(int levels) {
 }
 
 int main() {
-    stairs(100);
+    stairs(10);
     return 0;
 }
