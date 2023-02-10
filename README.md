@@ -14,3 +14,5 @@ Conjunto de desafios de C++.
 > Create a script that sums up all the numbers from a given list
 ## [Starts with](https://github.com/docafavarato/cpp-challenges/tree/main/Starts%20with/main.cpp)
 > Write a function that reads two strings and returns true if the first one starts with the second one.
+## [List inverter](https://github.com/docafavarato/cpp-challenges/tree/main/List%20inverter/main.cpp)
+> Write a function that inverts a given list
