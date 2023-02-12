@@ -17,7 +17,6 @@ class User {
         void post(string title, string content) {
             time_t t = time(0);
             tm* now = localtime(&t);
-            cout << (now->tm_year + 1900);
             cout << title << "\n";
             cout << content << "\n";
             cout << "Posted by " << username << ", " << (now->tm_year + 1900) << "/" << (now->tm_mon + 1) << "/" << now->tm_mday;
@@ -47,8 +46,4 @@ class User {
 int main() {
     User user = User().create("doca_f", "docafavarato@gmail.com", "favarato11");
     User user_1 = User().create("gabe", "docafavarato@gmail.com", "favarato11");
-    
-    cout << user_1.followers;
-    user.follow(user_1);
-    cout << user_1.followers;
 }
