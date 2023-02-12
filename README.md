@@ -16,3 +16,5 @@ Conjunto de desafios de C++.
 > Write a function that reads two strings and returns true if the first one starts with the second one.
 ## [List inverter](https://github.com/docafavarato/cpp-challenges/tree/main/List%20inverter/main.cpp)
 > Write a function that inverts a given list
+## [String inverter](https://github.com/docafavarato/cpp-challenges/tree/main/String%20inverter/main.cpp)
+> Write a script that inverts a given string
