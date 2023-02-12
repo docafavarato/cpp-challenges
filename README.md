@@ -18,3 +18,5 @@ Conjunto de desafios de C++.
 > Write a function that inverts a given list.
 ## [String inverter](https://github.com/docafavarato/cpp-challenges/tree/main/String%20inverter/main.cpp)
 > Write a script that inverts a given string.
+## [Users](https://github.com/docafavarato/cpp-challenges/tree/main/Users/main.cpp)
+> Make a class named "User" and code some actions for it, like following other user or posting something.
