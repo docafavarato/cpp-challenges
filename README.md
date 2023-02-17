@@ -20,3 +20,5 @@ Conjunto de desafios de C++.
 > Write a script that inverts a given string.
 ## [Users](https://github.com/docafavarato/cpp-challenges/tree/main/Users/main.cpp)
 > Make a class named "User" and code some actions for it, like following other user or posting something.
+## [Moving game](https://github.com/docafavarato/cpp-challenges/tree/main/Moving%20game/main.cpp)
+> A console game. Use the arrows to move.
