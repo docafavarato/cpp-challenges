@@ -36,6 +36,11 @@ class User {
             user_to.followers_list.push_front(username);
         }
 
+        void unfollow(User &user_to) {
+            user_to.followers --;
+            user_to.followers_list.remove(username);
+        }
+
         list<string> fetch_followers() {
             return followers_list;
         }
